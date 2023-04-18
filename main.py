@@ -6,5 +6,3 @@ class Gaming_car:
     def go(self):
         return 'go'
 
-    def signal(self):
-        return 'signal'
