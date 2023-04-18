@@ -8,3 +8,6 @@ class Gaming_car:
 
     def signal(self):
         return 'signal'
+
+    def svet(self):
+        return 'svet'
